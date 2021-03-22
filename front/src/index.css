@@ -20,6 +20,8 @@ body {
 
 }
 
+
+
 h2 {
   font-size: medium;
 }
@@ -32,7 +34,7 @@ h2 {
 }
 
 .searchBar input {
-  width: 35%;
+  width: 45%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
@@ -40,12 +42,12 @@ h2 {
 }
 
 .searchBar label {
-  width: 5%;
+  width: 15%;
   display: inline-block;
 }
 
 .searchBar button {
-  width: 40%;
+  width: 60%;
   background-color:blue;
   color: white;
   padding: 14px 20px;
